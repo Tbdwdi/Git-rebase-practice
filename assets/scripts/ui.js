@@ -1,5 +1,4 @@
 
-
 // Get request for onGetBooks (consider handlebars addition)
 const onGetBooksSuccess = function (data) {
   console.log(data)
